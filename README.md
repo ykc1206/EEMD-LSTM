@@ -1,7 +1,7 @@
 # 總體經驗模態分解結合長短期記憶
 
 流程：  
-eemd.py -> preprocessing.py -> model.py -> main.py -> retrain.py <-> Predict.py  
+eemd.py -> preprocessing.py -> model.py -> train.py -> retrain.py <-> Predict.py  
   
 |檔案             | 內容                                   | 
 |-----------------|----------------------------------------|
